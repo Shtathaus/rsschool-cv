@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
  <head>
@@ -49,6 +48,6 @@
             <li>Traveling</li>
             </ul>
      </div>
-     <div id="footer"></div>
+     <div id="footer">https://github.com/Shtathaus</div>
     </body>
 </html>
