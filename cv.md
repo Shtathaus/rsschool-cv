@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
  <head>
- <style>
+
      div
 {
     border-radius: 5px;
@@ -78,7 +78,6 @@ a:hover {
     }
     
 
-     </style>
 <link type="text/css" rel="stylesheet" href="style.css"/>
 <title>cv</title>
 </head>
